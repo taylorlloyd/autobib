@@ -1,0 +1,26 @@
+{
+    u'@score': u'3',
+    u'info': {
+        u'title': u'Using targeted symbolic execution for reducing false-positives in dataflow analysis.',
+        u'url': u'http://dblp.org/rec/conf/pldi/ArztRHB15',
+        u'authors': {
+            u'author': [u'Steven Arzt', u'Siegfried Rasthofer', u'Robert Hahn', u'Eric Bodden']
+        },
+        u'venue': {
+            u'@score': u'1',
+            u'info': {
+                u'acronym': u'SOAP',
+                u'type': u'Conference or Workshop',
+                u'venue': u'ACM SIGPLAN International Workshop on the State Of the Art in Java Program Analysis (SOAP @ PLDI)',
+                u'url': u'http://dblp.org/db/conf/pldi'
+            },
+            u'@id': u'114',
+            u'url': u'URL#114'
+        },
+        u'year': u'2015',
+        u'type': u'Conference and Workshop Papers',
+        u'pages': u'1-6'
+        },
+    u'@id': u'365978',
+    u'url': u'URL#365978'
+}
