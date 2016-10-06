@@ -1,6 +1,6 @@
 from dblp import getConferenceEntry
-from writebib import autocite
+from writebib import autocite, extractConferenceName
 
 
 autocite("ArztPLDI15")
-getConferenceEntry("Arzt", "PLDI", "2015")
+autocite("YangPLDI10")
